@@ -30,4 +30,4 @@ I'm passionate full-stack developer with 2+ years of hands-on experience. Being 
 - ☁️ Creating scalable cloud architecture using **AWS Cloud**.
 
 ## Github Activities  
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
