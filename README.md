@@ -30,9 +30,4 @@ I'm passionate full-stack developer with 2+ years of hands-on experience. Being 
 - ☁️ Creating scalable cloud architecture using **AWS Cloud**.
 
 ## Github Activities  
-<table><tr><td valign="left" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=fahrihanif&show_icons=true&count_private=true&hide_border=true" align="left"/>
-</td><td valign="left" width="50%">
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</td></tr></table>  
