@@ -32,7 +32,7 @@ I'm passionate full-stack developer with 2+ years of hands-on experience. Being 
 ## Github Activities  
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
-2. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
+2. 🔱 Forked [fahrihanif/markdown-badges](https://github.com/fahrihanif/markdown-badges) from [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 3. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
 4. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
 5. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
