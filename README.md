@@ -31,3 +31,9 @@ I'm passionate full-stack developer with 2+ years of hands-on experience. Being 
 
 ## Github Activities  
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
+2. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
+3. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
+4. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
+5. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
+<!--RECENT_ACTIVITY:end-->
