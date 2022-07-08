@@ -31,9 +31,9 @@ I'm passionate full-stack developer with 2+ years of hands-on experience. Being 
 
 ## Github Activities  
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [fahrihanif/Hello-Node.js](https://github.com/fahrihanif/Hello-Node.js)
+1. 📔 Created new repository [fahrihanif/Hello-Node.js](https://github.com/fahrihanif/Hello-Node.js)
 2. ⬆️ Pushed 1 commit(s) to [fahrihanif/Hello-Node.js](https://github.com/fahrihanif/Hello-Node.js)
-3. 📔 Created new repository [fahrihanif/Hello-Node.js](https://github.com/fahrihanif/Hello-Node.js)
-4. ⬆️ Pushed 1 commit(s) to [fahrihanif/fahrihanif](https://github.com/fahrihanif/fahrihanif)
-5. 🔱 Forked [fahrihanif/markdown-badges](https://github.com/fahrihanif/markdown-badges) from [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. ⬆️ Pushed 1 commit(s) to [fahrihanif/Hello-Node.js](https://github.com/fahrihanif/Hello-Node.js)
+4. ⬆️ Pushed 1 commit(s) to [fahrihanif/Hello-Node.js](https://github.com/fahrihanif/Hello-Node.js)
+5. ⬆️ Pushed 1 commit(s) to [fahrihanif/Hello-Node.js](https://github.com/fahrihanif/Hello-Node.js)
 <!--RECENT_ACTIVITY:end-->
