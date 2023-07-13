@@ -14,17 +14,16 @@
 I'm passionate full-stack developer with 2+ years of hands-on experience. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
   
 **About me**
-- 💼 Internship - Software Developer at [Metrodata Academy](https://metrodataacademy.id/tentang-kami)
-- 📖 Currently learning Node.js & AWS Cloud
+- 💼 IT Trainer at [Metrodata Academy](https://metrodataacademy.id/tentang-kami)
+- 💼 Technical Lead in Bootcamp Resources Management App at [Metrodata Academy](https://metrodataacademy.id/tentang-kami)
+- 📖 Currently learning ASP .NET Core
 - ❤️ I love teaching and learning related to technology
+- 🔥 Interested in the role of DevOps in the future
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/fahrihanif/)
 
-
 **Technologies**
-- 🎨 Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- ⌨️ Backend development using **.NET**.
+- 🎨 Front-end development using **HTML, Javascript, CSS**.
+- ⌨️ Backend development using **ASP .NET Core**.
 - 🛠️ Making for **Relational Database Management Systems**.
 - 🧩 Robust full-stack system design implementation.
-- 🖥️ Desktop application development using **Java**.
-- 📲 Mobile application development using **Java and Kotlin**.
 - ☁️ Creating scalable cloud architecture using **AWS Cloud**.
