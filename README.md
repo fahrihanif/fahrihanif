@@ -26,4 +26,4 @@ I'm passionate full-stack developer with 2+ years of hands-on experience. Being 
 - ⌨️ Backend development using **ASP .NET Core**.
 - 🛠️ Making for **Relational Database Management Systems**.
 - 🧩 Robust full-stack system design implementation.
-- ☁️ Creating scalable cloud architecture using **AWS Cloud**.
+- ☁️ Creating scalable cloud architecture using **Microsoft Azure**.
